@@ -1,14 +1,25 @@
 
+###
+
 <h1 align="center">Hi 👋, I'm Nguyen Duc Dat</h1>
 <h3 align="center">A student at the University of Engineering and Technology, VNU</h3>
 
 ###
 
-<img align="right" height="150" src="https://lh4.googleusercontent.com/proxy/fvf-3amxUMHtjL9LQbiadGdvwUjjEM4GlcwtUCSjCMQGhSyCorvh-5n15eapHPoIHyWtlDF1SXCwrFZrnYig" />
+<img align="right" height="100" src="https://lh4.googleusercontent.com/proxy/fvf-3amxUMHtjL9LQbiadGdvwUjjEM4GlcwtUCSjCMQGhSyCorvh-5n15eapHPoIHyWtlDF1SXCwrFZrnYig" />
 
 ###
 
 <p align="left">✨ I'm interested in Robotics, AI, Vision <br>📚 I’m looking to collaborate on Researching SLAM on Robotics <br>🎯 Goals: graduate from university <br></p>
+- 🔭 I’m currently working on **haha**
+
+- 🌱 I’m currently learning **haha**
+
+- 👯 I’m looking to collaborate on **haha**
+
+- 🤝 I’m looking for help with **haha**
+
+- 📫 How to reach me **ngducdat.rb@gmail.com**
 
 ###
 
