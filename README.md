@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="300" src="https://lh4.googleusercontent.com/proxy/fvf-3amxUMHtjL9LQbiadGdvwUjjEM4GlcwtUCSjCMQGhSyCorvh-5n15eapHPoIHyWtlDF1SXCwrFZrnYig" />
+<img align="right" height="250" src="https://lh4.googleusercontent.com/proxy/fvf-3amxUMHtjL9LQbiadGdvwUjjEM4GlcwtUCSjCMQGhSyCorvh-5n15eapHPoIHyWtlDF1SXCwrFZrnYig" />
 
 ###
 
