@@ -10,8 +10,6 @@
 
 ###
 
-- 🔭 I’m currently working on **haha**
-
 - ✨ I'm interested in Robotics, AI, Vision
 
 - 👯 I’m looking to collaborate on Researching SLAM on Robotics
