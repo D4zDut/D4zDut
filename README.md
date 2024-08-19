@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="450" src="https://lh4.googleusercontent.com/proxy/fvf-3amxUMHtjL9LQbiadGdvwUjjEM4GlcwtUCSjCMQGhSyCorvh-5n15eapHPoIHyWtlDF1SXCwrFZrnYig" />
+<img align="right" height="100" src="https://lh4.googleusercontent.com/proxy/fvf-3amxUMHtjL9LQbiadGdvwUjjEM4GlcwtUCSjCMQGhSyCorvh-5n15eapHPoIHyWtlDF1SXCwrFZrnYig" />
 
 ###
 
