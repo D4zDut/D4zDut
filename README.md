@@ -1,5 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Nguyen Duc Dat</h1>
 <h3 align="center">A student at the University of Engineering and Technology, VNU</h3>
+
+###
+
+<p align="left">✨ I'm interested in Robotics, AI, Vision <br>📚 I’m looking to collaborate on Researching SLAM on Robotics <br>🎯 Goals: graduated <br></p>
 
 ###
 
