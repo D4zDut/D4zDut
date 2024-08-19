@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/cc/32/99/cc3299350f3d91327d4a8922ecae8fb8.gif)]
+![MasterHead](https://i.pinimg.com/originals/cc/32/99/cc3299350f3d91327d4a8922ecae8fb8.gif)
 
 ###
 
