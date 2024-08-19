@@ -4,9 +4,11 @@
 
 ###
 
-<p align="left">✨ I'm interested in Robotics, AI, Vision <br>📚 I’m looking to collaborate on Researching SLAM on Robotics <br>🎯 Goals: graduate from university <br></p>
-
 <img align="right" height="450" src="https://lh4.googleusercontent.com/proxy/fvf-3amxUMHtjL9LQbiadGdvwUjjEM4GlcwtUCSjCMQGhSyCorvh-5n15eapHPoIHyWtlDF1SXCwrFZrnYig" />
+
+###
+
+<p align="left">✨ I'm interested in Robotics, AI, Vision <br>📚 I’m looking to collaborate on Researching SLAM on Robotics <br>🎯 Goals: graduate from university <br></p>
 
 ###
 
